@@ -1,0 +1,1280 @@
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.8ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1.0ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 17:29:21.726316', '2023-07-20 17:29:21.726316')[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (6.1ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.8ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 234.4ms | Allocations: 119694)
+Completed 200 OK in 245ms (Views: 236.5ms | ActiveRecord: 0.2ms | Allocations: 127165)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 22:29:22 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 22:29:23 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 22:29:23 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 22:29:23 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-------------------------------------
+BoardsTest: test_creating_a_new_board
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 17:41:08.419514', '2023-07-20 17:41:08.419514')[0m
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.0ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-------------------------------------
+BoardsTest: test_creating_a_new_board
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.9ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 32.8ms | Allocations: 42901)
+Completed 200 OK in 84ms (Views: 51.2ms | ActiveRecord: 0.2ms | Allocations: 50365)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 22:41:09 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 17:41:53.247460', '2023-07-20 17:41:53.247460')[0m
+  [1m[36mTRANSACTION (10.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.5ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+-------------------------------------
+BoardsTest: test_creating_a_new_board
+-------------------------------------
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.5ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.9ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 30.3ms | Allocations: 42678)
+Completed 200 OK in 80ms (Views: 54.7ms | ActiveRecord: 0.5ms | Allocations: 50141)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 22:41:54 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.5ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 17:56:34.064108', '2023-07-20 17:56:34.064108')[0m
+  [1m[36mTRANSACTION (10.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.9ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.4ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 28.6ms | Allocations: 42794)
+Completed 200 OK in 35ms (Views: 30.0ms | ActiveRecord: 0.3ms | Allocations: 50265)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 22:56:34 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 22:56:35 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 22:56:35 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 22:56:35 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-------------------------------------
+BoardsTest: test_creating_a_new_board
+-------------------------------------
+Started GET "/boards" for 127.0.0.1 at 2023-07-20 22:56:37 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.4ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 5.2ms | Allocations: 2354)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 4449)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.4ms | Allocations: 4836)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 17:59:27.121179', '2023-07-20 17:59:27.121179')[0m
+  [1m[36mTRANSACTION (10.5ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (4.0ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 22:59:27 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 21.0ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 52.6ms | Allocations: 42473)
+Completed 200 OK in 92ms (Views: 63.8ms | ActiveRecord: 0.2ms | Allocations: 49942)
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 22:59:28 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-----------------------------------
+BoardsTest: test_create_a_new_board
+-----------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-20 22:59:30 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 5.2ms | Allocations: 2348)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 4442)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.1ms | Allocations: 4818)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 18:00:01.395256', '2023-07-20 18:00:01.395256')[0m
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.0ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1.4ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 31.3ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 60.4ms | Allocations: 42832)
+Completed 200 OK in 89ms (Views: 66.4ms | ActiveRecord: 0.2ms | Allocations: 50301)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 23:00:02 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-----------------------------------
+BoardsTest: test_create_a_new_board
+-----------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-20 23:00:04 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 3.8ms | Allocations: 2356)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 4451)
+Completed 200 OK in 7ms (Views: 5.2ms | ActiveRecord: 0.1ms | Allocations: 4838)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 18:01:43.640878', '2023-07-20 18:01:43.640878')[0m
+  [1m[36mTRANSACTION (10.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.1ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-----------------------------------
+BoardsTest: test_create_a_new_board
+-----------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 50.8ms | Allocations: 18781)
+  Rendered layout layouts/application.html.erb (Duration: 100.4ms | Allocations: 58025)
+Completed 200 OK in 107ms (Views: 101.5ms | ActiveRecord: 0.2ms | Allocations: 64539)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 23:01:44 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 23:01:46 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.6ms | Allocations: 3277)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 5366)
+Completed 200 OK in 5ms (Views: 3.2ms | ActiveRecord: 0.2ms | Allocations: 6723)
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 23:01:46 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 23:01:46 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 23:01:46 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 23:01:46 +0500
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 18:45:19.628574', '2023-07-20 18:45:19.628574')[0m
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.0ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1.9ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.4ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 23.2ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 62.5ms | Allocations: 42892)
+Completed 200 OK in 107ms (Views: 73.0ms | ActiveRecord: 0.4ms | Allocations: 50361)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 23:45:20 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+-----------------------------------
+BoardsTest: test_create_a_new_board
+-----------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-20 23:45:23 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 3.7ms | Allocations: 2356)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 4451)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.2ms | Allocations: 4838)
+Started POST "/create_board" for 127.0.0.1 at 2023-07-20 23:45:24 +0500
+Processing by BoardsController#create as TURBO_STREAM
+  Parameters: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board"}
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1d141490c8>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1d141490c8>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1d141490c8>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1d141490c8>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1d141490c8>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mBoard Create (0.3ms)[0m  [1m[32mINSERT INTO "boards" ("email", "mines", "rows", "cols", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "user@example.com"], ["mines", "{27,93,88,50,14,59,46,40,82,80,61,20,86,55,68}"], ["rows", 10], ["cols", 10], ["created_at", "2023-07-20 18:45:24.291198"], ["updated_at", "2023-07-20 18:45:24.291198"]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://127.0.0.1:44257/boards/980190963
+Completed 302 Found in 4ms (ActiveRecord: 0.5ms | Allocations: 1700)
+Started GET "/boards/980190963" for 127.0.0.1 at 2023-07-20 23:45:24 +0500
+Processing by BoardsController#show as TURBO_STREAM
+  Parameters: {"id"=>"980190963"}
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190963], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.5ms | Allocations: 2865)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | Allocations: 5029)
+Completed 200 OK in 6ms (Views: 4.6ms | ActiveRecord: 0.3ms | Allocations: 6418)
+Started GET "/assets/value3-541d95c87a22125acd89120950e9cc3bd7cf6930f4435d96b964442c2ded3fb6.png" for 127.0.0.1 at 2023-07-20 23:45:24 +0500
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 18:49:24.600616', '2023-07-20 18:49:24.600616')[0m
+  [1m[36mTRANSACTION (10.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.5ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 24.2ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 57.9ms | Allocations: 42183)
+Completed 200 OK in 100ms (Views: 68.8ms | ActiveRecord: 0.3ms | Allocations: 49652)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-20 23:49:25 +0500
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-----------------------------------
+BoardsTest: test_create_a_new_board
+-----------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-20 23:49:28 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 7.4ms | Allocations: 2344)
+  Rendered layout layouts/application.html.erb (Duration: 8.8ms | Allocations: 4438)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.1ms | Allocations: 4813)
+Started POST "/create_board" for 127.0.0.1 at 2023-07-20 23:49:29 +0500
+Processing by BoardsController#create as TURBO_STREAM
+  Parameters: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board"}
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fbc84e13640>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fbc84e13640>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fbc84e13640>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fbc84e13640>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fbc84e13640>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mBoard Create (0.3ms)[0m  [1m[32mINSERT INTO "boards" ("email", "mines", "rows", "cols", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "user@example.com"], ["mines", "{37,63,74,78,87,43,76,53,36,20,12,61,32,10,0}"], ["rows", 10], ["cols", 10], ["created_at", "2023-07-20 18:49:29.034539"], ["updated_at", "2023-07-20 18:49:29.034539"]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://127.0.0.1:46527/boards/980190963
+Completed 302 Found in 6ms (ActiveRecord: 0.4ms | Allocations: 2287)
+Started GET "/boards/980190963" for 127.0.0.1 at 2023-07-20 23:49:29 +0500
+Processing by BoardsController#show as TURBO_STREAM
+  Parameters: {"id"=>"980190963"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190963], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.1ms | Allocations: 2865)
+  Rendered layout layouts/application.html.erb (Duration: 2.4ms | Allocations: 4954)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.2ms | Allocations: 6018)
+Started GET "/assets/value3-541d95c87a22125acd89120950e9cc3bd7cf6930f4435d96b964442c2ded3fb6.png" for 127.0.0.1 at 2023-07-20 23:49:29 +0500
+Started GET "/assets/value4-06cbca69862725c6b86b859e03412e03042ae92715837822dc2712011e7c38c2.png" for 127.0.0.1 at 2023-07-20 23:49:29 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 19:00:25.229712', '2023-07-20 19:00:25.229712')[0m
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.0ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 25.0ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 58.1ms | Allocations: 42824)
+Completed 200 OK in 105ms (Views: 72.4ms | ActiveRecord: 0.2ms | Allocations: 50293)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-21 00:00:26 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+-----------------------------------
+BoardsTest: test_create_a_new_board
+-----------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-21 00:00:30 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.4ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 3.8ms | Allocations: 2344)
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | Allocations: 4421)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.4ms | Allocations: 4796)
+Started POST "/create_board" for 127.0.0.1 at 2023-07-21 00:00:31 +0500
+Processing by BoardsController#create as TURBO_STREAM
+  Parameters: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board"}
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fb19405a918>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fb19405a918>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fb19405a918>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fb19405a918>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fb19405a918>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mBoard Create (0.5ms)[0m  [1m[32mINSERT INTO "boards" ("email", "mines", "rows", "cols", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "user@example.com"], ["mines", "{89,88,30,43,77,27,83,5,37,60,25,7,56,63,28}"], ["rows", 10], ["cols", 10], ["created_at", "2023-07-20 19:00:31.191747"], ["updated_at", "2023-07-20 19:00:31.191747"]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://127.0.0.1:40113/boards/980190963
+Completed 302 Found in 5ms (ActiveRecord: 0.7ms | Allocations: 1873)
+Started GET "/boards/980190963" for 127.0.0.1 at 2023-07-21 00:00:31 +0500
+Processing by BoardsController#show as TURBO_STREAM
+  Parameters: {"id"=>"980190963"}
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190963], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.2ms | Allocations: 2865)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | Allocations: 4954)
+Completed 200 OK in 6ms (Views: 2.7ms | ActiveRecord: 0.3ms | Allocations: 6019)
+Started GET "/assets/value4-06cbca69862725c6b86b859e03412e03042ae92715837822dc2712011e7c38c2.png" for 127.0.0.1 at 2023-07-21 00:00:31 +0500
+Started GET "/assets/value3-541d95c87a22125acd89120950e9cc3bd7cf6930f4435d96b964442c2ded3fb6.png" for 127.0.0.1 at 2023-07-21 00:00:31 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 19:05:38.609702', '2023-07-20 19:05:38.609702')[0m
+  [1m[36mTRANSACTION (10.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (2.9ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 23.6ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 57.7ms | Allocations: 42869)
+Completed 200 OK in 104ms (Views: 67.7ms | ActiveRecord: 0.3ms | Allocations: 50338)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-21 00:05:39 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+-----------------------------------
+BoardsTest: test_create_a_new_board
+-----------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-21 00:05:43 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 4.4ms | Allocations: 2344)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 4421)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.2ms | Allocations: 4796)
+Started POST "/create_board" for 127.0.0.1 at 2023-07-21 00:05:44 +0500
+Processing by BoardsController#create as TURBO_STREAM
+  Parameters: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board"}
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fc414067518>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fc414067518>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fc414067518>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fc414067518>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007fc414067518>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mBoard Create (0.3ms)[0m  [1m[32mINSERT INTO "boards" ("email", "mines", "rows", "cols", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "user@example.com"], ["mines", "{34,27,90,18,68,17,9,40,5,47,16,73,23,53,0}"], ["rows", 10], ["cols", 10], ["created_at", "2023-07-20 19:05:44.299502"], ["updated_at", "2023-07-20 19:05:44.299502"]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://127.0.0.1:42245/boards/980190963
+Completed 302 Found in 6ms (ActiveRecord: 0.4ms | Allocations: 2269)
+Started GET "/boards/980190963" for 127.0.0.1 at 2023-07-21 00:05:44 +0500
+Processing by BoardsController#show as TURBO_STREAM
+  Parameters: {"id"=>"980190963"}
+  [1m[36mBoard Load (1.0ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190963], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 3.1ms | Allocations: 2865)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 4955)
+Completed 200 OK in 8ms (Views: 5.4ms | ActiveRecord: 1.0ms | Allocations: 6435)
+Started GET "/assets/value3-541d95c87a22125acd89120950e9cc3bd7cf6930f4435d96b964442c2ded3fb6.png" for 127.0.0.1 at 2023-07-21 00:05:44 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 19:16:53.735550', '2023-07-20 19:16:53.735550')[0m
+  [1m[36mTRANSACTION (10.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.4ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 21.2ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 57.3ms | Allocations: 42884)
+Completed 200 OK in 103ms (Views: 70.3ms | ActiveRecord: 0.3ms | Allocations: 50353)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-21 00:16:54 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+---------------------------------------------
+BoardsTest: test_create_a_new_board_-_failure
+---------------------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-21 00:16:55 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 4.5ms | Allocations: 2352)
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 4430)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.2ms | Allocations: 4816)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+---------------------------------------------
+BoardsTest: test_create_a_new_board_-_success
+---------------------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-21 00:16:57 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 923)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 3018)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.3ms | Allocations: 3329)
+Started POST "/create_board" for 127.0.0.1 at 2023-07-21 00:16:57 +0500
+Processing by BoardsController#create as TURBO_STREAM
+  Parameters: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board"}
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1a4c4dfc70>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1a4c4dfc70>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1a4c4dfc70>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1a4c4dfc70>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f1a4c4dfc70>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mBoard Create (0.6ms)[0m  [1m[32mINSERT INTO "boards" ("email", "mines", "rows", "cols", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "user@example.com"], ["mines", "{30,36,91,41,14,80,98,74,11,7,18,93,84,13,96}"], ["rows", 10], ["cols", 10], ["created_at", "2023-07-20 19:16:57.963365"], ["updated_at", "2023-07-20 19:16:57.963365"]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://127.0.0.1:34885/boards/980190963
+Completed 302 Found in 6ms (ActiveRecord: 1.0ms | Allocations: 1858)
+Started GET "/boards/980190963" for 127.0.0.1 at 2023-07-21 00:16:57 +0500
+Processing by BoardsController#show as TURBO_STREAM
+  Parameters: {"id"=>"980190963"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190963], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 1.0ms | Allocations: 2865)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 5250)
+Completed 200 OK in 5ms (Views: 3.3ms | ActiveRecord: 0.2ms | Allocations: 6413)
+Started GET "/assets/value3-541d95c87a22125acd89120950e9cc3bd7cf6930f4435d96b964442c2ded3fb6.png" for 127.0.0.1 at 2023-07-21 00:16:58 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Pluck (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "schema_sha1"], ["LIMIT", 1]]
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "boards" DISABLE TRIGGER ALL;ALTER TABLE "schema_migrations" DISABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" DISABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[31mDELETE FROM "boards";
+INSERT INTO "boards" ("id", "email", "mines", "rows", "cols", "created_at", "updated_at") VALUES (980190962, 'user@example.com', '{0,2,5}', 10, 10, '2023-07-20 19:20:45.660552', '2023-07-20 19:20:45.660552')[0m
+  [1m[36mTRANSACTION (37.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.4ms)[0m  [1m[35mALTER TABLE "boards" ENABLE TRIGGER ALL;ALTER TABLE "schema_migrations" ENABLE TRIGGER ALL;ALTER TABLE "ar_internal_metadata" ENABLE TRIGGER ALL[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (4.0ms)[0m  [1m[35mdo $$
+  declare r record;
+BEGIN
+FOR r IN (
+  SELECT FORMAT(
+    'UPDATE pg_constraint SET convalidated=false WHERE conname = ''%I'' AND connamespace::regnamespace = ''%I''::regnamespace; ALTER TABLE %I.%I VALIDATE CONSTRAINT %I;',
+    constraint_name,
+    table_schema,
+    table_schema,
+    table_name,
+    constraint_name
+  ) AS constraint_check
+  FROM information_schema.table_constraints WHERE constraint_type = 'FOREIGN KEY'
+)
+  LOOP
+    EXECUTE (r.constraint_check);
+  END LOOP;
+END;
+$$;
+[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+--------------------------------
+BoardsTest: test_viewing_a_board
+--------------------------------
+  [1m[36mBoard Load (0.3ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+Started GET "/boards/980190962" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Processing by BoardsController#show as HTML
+  Parameters: {"id"=>"980190962"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190962], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 26.3ms | Allocations: 3615)
+  Rendered layout layouts/application.html.erb (Duration: 63.1ms | Allocations: 42828)
+Completed 200 OK in 112ms (Views: 80.2ms | ActiveRecord: 0.2ms | Allocations: 50297)
+Started GET "/assets/application-267a287b7840a473a5b7ff6c6c62fd8ec2c63fc38abf9ac8a2e932551693134c.css" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/es-module-shims.min-4ca9b3dd5e434131e3bb4b0c1d7dff3bfd4035672a5086deec6f73979a49be73.js" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/turbo-4851a9a0b1d947e810dfd0448a72aef261d455183ebea681f4f28a73640a9ece.js" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/value2-a353928842fb1095dcc6f2bc3a301a77e7b39187ee8807e7bee61801cd1bda12.png" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/value1-99582cd564d9dab9a1cd2e29e6bd5124a0bc5df847746cfbabc4f9d2c4dad2de.png" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/bomb-45e58ab0aa81200eff2dd82a47b8ccc2f527e400e69e34239748787954f4cde2.png" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/value0-5d8f187466eba2586220ed923593ad97b05429cc723938a196be41f30fcb4bc0.png" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/turbo.min-f309baafa3ae5ad6ccee3e7362118b87678d792db8e8ab466c4fa284dd3a4700.js" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/stimulus.min-d03cf1dff41d6c5698ec2c5d6a501615a7a33754dbeef8d1edd31c928d17c652.js" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+Started GET "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js" for 127.0.0.1 at 2023-07-21 00:20:46 +0500
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+---------------------------------------------
+BoardsTest: test_create_a_new_board_-_failure
+---------------------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-21 00:20:47 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.1ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 3.3ms | Allocations: 2352)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 4430)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.1ms | Allocations: 4816)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mBEGIN[0m
+---------------------------------------------
+BoardsTest: test_create_a_new_board_-_success
+---------------------------------------------
+Started GET "/" for 127.0.0.1 at 2023-07-21 00:20:47 +0500
+Processing by BoardsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering boards/index.html.erb within layouts/application
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" ORDER BY "boards"."created_at" DESC LIMIT $1[0m  [["LIMIT", 10]]
+  Rendered boards/index.html.erb within layouts/application (Duration: 18.3ms | Allocations: 922)
+  Rendered layout layouts/application.html.erb (Duration: 43.8ms | Allocations: 3000)
+Completed 200 OK in 51ms (Views: 44.2ms | ActiveRecord: 0.2ms | Allocations: 3310)
+Started POST "/create_board" for 127.0.0.1 at 2023-07-21 00:20:47 +0500
+Processing by BoardsController#create as TURBO_STREAM
+  Parameters: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board"}
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f194806e510>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f194806e510>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f194806e510>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f194806e510>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+[31mUnpermitted parameter: :commit. Context: { controller: BoardsController, action: create, request: #<ActionDispatch::Request:0x00007f194806e510>, params: {"email"=>"user@example.com", "rows"=>"10", "cols"=>"10", "mines"=>"15", "commit"=>"Generate Board", "controller"=>"boards", "action"=>"create"} }[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mBoard Create (0.2ms)[0m  [1m[32mINSERT INTO "boards" ("email", "mines", "rows", "cols", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "user@example.com"], ["mines", "{5,73,35,87,25,47,55,92,40,45,3,30,51,8,38}"], ["rows", 10], ["cols", 10], ["created_at", "2023-07-20 19:20:47.978569"], ["updated_at", "2023-07-20 19:20:47.978569"]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://127.0.0.1:46691/boards/980190963
+Completed 302 Found in 5ms (ActiveRecord: 0.4ms | Allocations: 1873)
+Started GET "/boards/980190963" for 127.0.0.1 at 2023-07-21 00:20:47 +0500
+Processing by BoardsController#show as TURBO_STREAM
+  Parameters: {"id"=>"980190963"}
+  [1m[36mBoard Load (0.2ms)[0m  [1m[34mSELECT "boards".* FROM "boards" WHERE "boards"."id" = $1 LIMIT $2[0m  [["id", 980190963], ["LIMIT", 1]]
+  Rendering layout layouts/application.html.erb
+  Rendering boards/show.html.erb within layouts/application
+  Rendered boards/show.html.erb within layouts/application (Duration: 4.3ms | Allocations: 2865)
+  Rendered layout layouts/application.html.erb (Duration: 7.1ms | Allocations: 5055)
+Completed 200 OK in 10ms (Views: 7.9ms | ActiveRecord: 0.2ms | Allocations: 6435)
+Started GET "/assets/value3-541d95c87a22125acd89120950e9cc3bd7cf6930f4435d96b964442c2ded3fb6.png" for 127.0.0.1 at 2023-07-21 00:20:48 +0500
+Started GET "/assets/value4-06cbca69862725c6b86b859e03412e03042ae92715837822dc2712011e7c38c2.png" for 127.0.0.1 at 2023-07-21 00:20:48 +0500
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mROLLBACK[0m
