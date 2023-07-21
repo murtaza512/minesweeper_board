@@ -1,0 +1,56 @@
+<div class="container">
+  <div class="row p-5 align-items-stretch">
+    <div class="col-4 p-4 m-2 border">
+      <h2>Create a new Board</h2>
+      <%= form_with(url: create_board_path, method: :post, local: true) do |form| %>
+        <div class="mb-3 form-group">
+          <%= form.label :query, "Email : ", class: 'form-label' %>
+          <%= form.email_field :email, class: 'form-control', required: true %>
+        </div>
+
+        <div class="mb-3 form-group">
+          <%= form.label :query, "Rows : ", class: 'form-label' %>
+          <%= form.number_field :rows, class: 'form-control', required: true, min: 1 %>
+        </div>
+
+        <div class="mb-3 form-group">
+          <%= form.label :query, "Columns : ", class: 'form-label' %>
+          <%= form.number_field :cols, class: 'form-control', required: true, min: 1 %>
+        </div>
+
+        <div class="mb-3 form-group">
+          <%= form.label :query, "Mines : ", class: 'form-label' %>
+          <%= form.number_field :mines, class: 'form-control', required: true, min: 1 %>
+        </div>
+
+        <%= form.submit "Generate Board", class: 'btn btn-primary' %>
+      <% end %>
+      </div>
+      <div class="col-7 p-4 m-2 border">
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Email</th>
+              <th scope="col">Rows</th>
+              <th scope="col">Cols</th>
+              <th scope="col">Mines</th>
+              <th scope="col">Board</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% @boards.each_with_index do |board, index| %>
+              <tr>
+                <th scope="row"><%= index + 1 %></th>
+                <td><%= board.email %></td>
+                <td><%= board.rows %></td>
+                <td><%= board.cols %></td>
+                <td><%= board.mines.count %></td>
+                <td><%= link_to "Show",board %></td>
+              </tr>
+            <% end %>
+          </tbody>
+        </table>
+    </div>
+  </div>
+</div>

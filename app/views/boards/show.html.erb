@@ -1,0 +1,41 @@
+<div class = "container">
+  <div class="p-5 m-10 border">
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="row">Board Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Email</th>
+          <td><%=@board.email%></td>
+        </tr>
+        <tr>
+          <th scope="row">No. of Columns</th>
+          <td><%=@board.cols%></td>
+        </tr>
+        <tr>
+          <th scope="row">No. of Rows</th>
+          <td><%=@board.rows%></td>
+        </tr>
+            <tr>
+          <th scope="row">No. of Mines</th>
+          <td><%=@board.mines.count%></td>
+        </tr>
+      </tbody>
+    </table>
+    <div class = "d-flex flex-column scroll align-items-center">
+      <% @board.rows.times do |r| %>
+        <div class="inline">
+          <% @board.cols.times do |c| %>
+            <%= show_button(@mines_board[r][c])%>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+    <div>
+      <%= link_to 'Back', boards_path(), class: 'btn btn-primary' %>
+    </div>
+  </div>
+</div>
