@@ -27,26 +27,25 @@ class BoardsController < ApplicationController
   end
 
   def show
-    def show
+    begin
       @board = Board.find(params[:id])
       @mines_board = cached_board(@board)
     rescue ActiveRecord::RecordNotFound
       redirect_back_or_to '/'
     end
   end
-    
 
   private
 
-  def board_params
-    params.permit(:email, :rows, :cols, :mines)
-  end
-
-  def cached_board(board)
-    key = "board#{board.id}"
-    Rails.cache.fetch key, expires_in: 1.day do
-      grid(board.mines, board.rows, board.cols)
+    def board_params
+      params.permit(:email, :rows, :cols, :mines)
     end
-  end
+
+    def cached_board(board)
+      key = "board#{board.id}"
+      Rails.cache.fetch key, expires_in: 1.day do
+        grid(board.mines, board.rows, board.cols)
+      end
+    end
 
 end
